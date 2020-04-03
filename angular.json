@@ -93,11 +93,8 @@
             ],
             "styles": [
               "src/styles.css"
-
             ],
-            "scripts": [
-
-            ]
+            "scripts": []
           }
         },
         "lint": {
@@ -126,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "shop"
+    }
+  },
+  "defaultProject": "shop",
+  "cli": {
+    "analytics": "b3f569d8-5d93-4149-8de8-6d0762c9ff5e"
+  }
 }
